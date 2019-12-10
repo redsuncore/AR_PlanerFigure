@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="sample_marker" size="0.300000 0.210000" />
+    <ImageTarget name="dice" size="0.300000 0.225000" />
+    <ImageTarget name="12" size="0.300000 0.404961" />
+    <ImageTarget name="Pyramid_n" size="0.300000 0.533216" />
+    <ImageTarget name="dodecnet01" size="0.300000 0.300000" />
   </Tracking>
 </QCARConfig>
